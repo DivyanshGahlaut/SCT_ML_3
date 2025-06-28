@@ -92,6 +92,8 @@ Optional: the image is displayed using matplotlib, and the prediction is printed
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/c2d7aa0d-cabc-4342-a146-2a856a1cc91e)
+
 
 
 
