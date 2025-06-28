@@ -97,6 +97,9 @@ Optional: the image is displayed using matplotlib, and the prediction is printed
 ![Image](https://github.com/user-attachments/assets/bfa4a10d-7f2d-4efa-abc1-ac396f31b5ec)
 
 
+![Image](https://github.com/user-attachments/assets/e7ecc1f3-afa8-4848-8c15-b708645ea708)
+
+
 
 
 
